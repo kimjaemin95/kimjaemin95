@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></a>&nbsp 
 </p>
-
+<hr>
 <h4 align="center">⭐ 클라우드 ⭐</h4>
 <p align="center"> 
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></a>&nbsp 
@@ -56,8 +56,7 @@
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></a>&nbsp 
 </p>
-
-
+<hr>
 <br/>
 <h4 align="center">🌈 Follow Me 🌈</h4>
 <p align="center">
