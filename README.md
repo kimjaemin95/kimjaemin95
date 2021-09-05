@@ -4,20 +4,18 @@
 <div align = "center">
 
 <br/>
-<h3> 빅데이터 공부하는 남자 '김재민' 🥳</h3><br/>
+<h3> 빅데이터 공부하는 남자 '김재민'</h3><br/>
 안녕하세요.<br/>
-주니어 데이터 분석가 김재민입니다.<br/>
+데이터 분석가 김재민입니다.<br/>
 <br/>
 
-
 <br/><br/>
-
 
 <br>
-﹏﹏﹏﹏﹏﹏﹏
+<bar>
 
 <br/><br/>
-<h4 align="center">📚 My teck steck 📚</h4>
+<h4 align="center">💼 My teck steck 💼</h4>
 <p align="center"> 
     <img src="https://postfiles.pstatic.net/MjAyMTA5MDZfMTQ3/MDAxNjMwODU5ODgyMzgw.xDD4zLfxDt0yufP9Avr1exU8acxlGMawuBvtP0JXd38g.ytwqD4nGtcZc4Jk8Da5EeTWtJHtLMnwJvLfQhDeBNP8g.PNG.todaybow/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D.png?type=w966"/></a>&nbsp; 
   <img src="https://postfiles.pstatic.net/MjAyMTA5MDZfODAg/MDAxNjMwODU5ODgyMzgx.VDz-58ZdCQpxPvCEY3NGfMGefX9tKf8nJ56csRn869Mg.8lxe7yOHc7q8CPRO6E4JtkZv0UL7rEBV3vR3EtMpvZgg.PNG.todaybow/%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D%EB%B6%84%EC%84%9D.png?type=w966"/></a>&nbsp; 
