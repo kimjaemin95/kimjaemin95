@@ -8,12 +8,12 @@
 <br/><br/>
 <hr>
 <br/><br/>
-<h3 align="center">💼 핵심 기술 역량 💼</h3>
+<h3 align="center">💼 근무 이력 💼</h3>
     <p align="center"> 
         <img src="https://postfiles.pstatic.net/MjAyMTA5MDZfMjk3/MDAxNjMwODYxMDA0OTAx.6xi7qJIMGp_HmYW-e2t2cHdLZrfh4P5OwvX7Bct_wyMg.IhmLmHJ0Owspj52PzfXezKkl5egEONK5440JYavWzq8g.PNG.todaybow/%EC%A3%BC%EC%9A%94%EC%9D%B4%EB%A0%A5.png?type=w966"/></a>&nbsp; 
     </p>
 <hr>
-<h3 align="center">💼 핵심 기술 역량 💼</h3>
+<h3 align="center">📌 핵심 기술 역량 📌</h3>
 <p align="center"> 
     <img src="https://postfiles.pstatic.net/MjAyMTA5MDZfMTQ3/MDAxNjMwODU5ODgyMzgw.xDD4zLfxDt0yufP9Avr1exU8acxlGMawuBvtP0JXd38g.ytwqD4nGtcZc4Jk8Da5EeTWtJHtLMnwJvLfQhDeBNP8g.PNG.todaybow/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D.png?type=w966"/></a>&nbsp; 
   <img src="https://postfiles.pstatic.net/MjAyMTA5MDZfODAg/MDAxNjMwODU5ODgyMzgx.VDz-58ZdCQpxPvCEY3NGfMGefX9tKf8nJ56csRn869Mg.8lxe7yOHc7q8CPRO6E4JtkZv0UL7rEBV3vR3EtMpvZgg.PNG.todaybow/%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D%EB%B6%84%EC%84%9D.png?type=w966"/></a>&nbsp; 
