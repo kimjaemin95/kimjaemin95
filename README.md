@@ -13,7 +13,7 @@
 <br/><br/>
 
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/kimjaemin95/)](https://github.com/kimjaemin95/)<br>
+[![GitHub Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/kimjaemin95/)](https://github.com/kimjaemin95/)<br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:top2road@gmail.com)](mailto:top2road@gmail.com)<br>
 [![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=Naver&link=https://blog.naver.com/todaybow)](https://blog.naver.com/todaybow)<br>
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCbDLDh_WlRvJ9NBuqtqTSqw)](https://www.youtube.com/channel/UCbDLDh_WlRvJ9NBuqtqTSqw)
