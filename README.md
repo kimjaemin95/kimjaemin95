@@ -12,7 +12,7 @@
 <br/><br/>
 
 <br>
-<bar>
+<hr>
 
 <br/><br/>
 <h4 align="center">💼 My teck steck 💼</h4>
