@@ -20,12 +20,17 @@
  
 <h4 align="center">📚 Data analystic 📚</h4>
 <p align="center"> 
-  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/></a>&nbsp  
+ 
+  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/Spark-3.1.2-orange"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/Kafka-2.8.0-black"/></a>&nbsp
+  <img src="https://img.shields.io/badge/KsqlDB-0.20.0-red"/></a>&nbsp
+  <img src="https://img.shields.io/badge/StreamSets-3.18.1-skyblue"/></a>&nbsp
 </p>
 
 <h4 align="center">📚 Backend/Frontend 📚</h4>
