@@ -14,8 +14,8 @@
 
 
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:top2road@gmail.com)](mailto:top2road@gmail.com)
-<!-- [![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=Naver&link=https://blog.naver.com/chajuhui123)](https://blog.naver.com/chajuhui123) -->
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:top2road@gmail.com)](mailto:top2road@gmail.com)<br>
+[![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=Naver&link=https://blog.naver.com/todaybow)](https://blog.naver.com/todaybow)
  
   
 ﹏﹏﹏﹏﹏﹏﹏
