@@ -4,10 +4,10 @@
 <div align = "center">
 
 <br/>
-<h3>Joyful Joy 🥳</h3><br/>
-Hello, I'm Juhee (Joy).<br/>
-My goal is to give good influence to society.<br/>
-Have a day full of JOY today.
+<h3> 빅데이터 공부하는 남자 '김재민' 🥳</h3><br/>
+안녕하세요.<br/>
+주니어 데이터 분석가 27살 김재민입니다.<br/>
+<br/>
 
 
 <br/><br/>
