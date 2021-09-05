@@ -21,7 +21,7 @@
   <img src="https://postfiles.pstatic.net/MjAyMTA5MDZfMjgy/MDAxNjMwODU5ODgyMzc2.UYCC0xHfiPmLUexKN86t1iPzX3BZYdBOZ1X0WeX6Tqgg.OY6ma7s2qhp1-QAayXHUO0AtoyeAsJHGpmXApuVzMZ0g.PNG.todaybow/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C.png?type=w966"/></a>&nbsp;
 </p>
 <hr>
-<h4 align="center">⭐ 데이터 분석 역량 ⭐</h4>
+<h4 align="center">⭐ 데이터 분석 ⭐</h4>
 <p align="center"> 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/></a>&nbsp; 
